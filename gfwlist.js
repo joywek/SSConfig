@@ -46,7 +46,13 @@ var rules = [
   "||googleapis.com", 
   "||googlesyndication.com", 
   "||w.org",
-  "||qiniu.com"
+  "||qiniu.com",
+  "||blogspot.com",
+  "||blogspot.in",
+  "||blogspot.hk",
+  "||cloudfront.net",
+  "||medium.com",
+  "||android.com",
 ];
 
 /*
